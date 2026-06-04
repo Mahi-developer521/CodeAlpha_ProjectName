@@ -1,4 +1,5 @@
 stock={"AAPL":180,"TSLA":250,"GLG":290,"AMZN":350}#stock name and price
+print("--Welcome To Stock Portfolio Tracker--")
 k=int(input("How Many Stocks Do You Want?:"))#number of stocks user want to invest
 portfolio={}#to store the stock name and quantity
 total=0#total investment value
