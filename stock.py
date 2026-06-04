@@ -30,10 +30,6 @@ while(k!=0):
     k-=1
 if(total==0):
     print("Sorry,Your Asking for Unavailable Stocks!")
-else:
-    for i in portfolio:
-        print(i,":",portfolio[i],"shares")
-    print("Total Investment Value:",total)
 port=input("Enter for Confirmation:(1/2/0)")
 if(port=="1"):
     file.write("Total Investment:$")
@@ -41,7 +37,7 @@ if(port=="1"):
     file.close()
     print("Saved In The Format of .txt")
 elif(port=="2"):
-    f.write("Total Investment:$")
+    f.write("Total , ,")
     f.write(str(total))
     f.close()
     print("Saved In The Format of .csv")
