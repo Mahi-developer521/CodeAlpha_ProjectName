@@ -1,8 +1,7 @@
 # CodeAlpha_ProjectName
-Python Programming Internship Tasks<br>
+**PYTHON PROGRAMMING INTERNSHIP TASKS**<br>
 Task-1<br>
 **BASIC CHATBOT USING PYTHON PROGRAMMING**<br>
-
 key concepts used:if-elif,functions,loops,Input/Output<br>
 Test Cases:<br>
 User:hello<br>
